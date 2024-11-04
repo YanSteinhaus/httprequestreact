@@ -21,7 +21,7 @@
 
  ## Configurações das APIs
 
- - Para a API do OMDB, use a chave de API: `969f4741`.
+ - Para a API do OMDB, use a chave de API: -------
 
  ## Estrutura do Projeto
 
