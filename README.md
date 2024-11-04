@@ -10,28 +10,7 @@
  - **Lista de Filmes**: Exibe uma lista de filmes com seus títulos e imagens.
  - **Lista de Receitas**: Mostra uma lista de receitas com nome e imagem.
  - **Citações Aleatórias**: Apresenta citações aleatórias com o autor.
-
- ## Instalação
-
- Para rodar esta aplicação em seu ambiente local, siga as etapas abaixo:
-
- 1. Clone este repositório:
-    ```bash
-    git clone https://github.com/seu_usuario/seu_repositorio.git
-    ```
- 2. Navegue até o diretório do projeto:
-    ```bash
-    cd seu_repositorio
-    ```
- 3. Instale as dependências:
-    ```bash
-    npm install
-    ```
-    ou
-    ```bash
-    yarn install
-    ```
- 4. Inicie a aplicação:
+ Inicie a aplicação:
     ```bash
     npm start
     ```
